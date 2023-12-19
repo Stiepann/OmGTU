@@ -41,8 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="ingeenire.cs" />
-    <Compile Include="Ingineer.cs" />
+    <Compile Include="Eng.cs" />
+    <Compile Include="Engineer.cs" />
     <Compile Include="Manager.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="IPerson.cs" />

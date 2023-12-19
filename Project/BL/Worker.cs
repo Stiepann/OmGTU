@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BL
 {
-    class Worker : Person
+    public class Worker : Person
     {
         public string position { get; set; }
         public int hours { get; set; }
@@ -24,7 +24,7 @@ namespace BL
         }
         public override double CalculateSalary(int hours, int overhours, int bonus)
         {
-            return 0;
+            return 200 * hours + 250*overhours + 0*bonus;
         }
     }
 }

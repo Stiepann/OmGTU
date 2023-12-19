@@ -20,19 +20,23 @@ namespace Project
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        /*private void button1_Click(object sender, EventArgs e)
         {
             Person pers1 = new Person (textBox2.Text, textBox1.Text, textBox3.Text);
             label4.Text = pers1.ShortName();
             Person p = new Person(); 
             p.CalculateSalary(Convert.ToInt32(textBox2.Text), Convert.ToInt32(textBox1.Text), Convert.ToInt32(textBox3.Text));
+           
+            Person pers1 = new Person(textBox2.Text, textBox1.Text, textBox3.Text);
+            label4.Text = pers1.ShortName();
 
-            IPerson ing1 = new Ingineer();
+            IPerson ing1 = new Engineer();
             IPerson mng1 = new Manager();
+            IPerson wor1 = new Worker();
 
-            label4.Text = ing1.CalculateSalary(Convert.ToInt32(textBox4.Text), Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text)).ToString();
+            //label4.Text = ing1.CalculateSalary(Convert.ToInt32(textBox4.Text), Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text)).ToString();
             label6.Text = mng1.CalculateSalary(Convert.ToInt32(textBox4.Text), Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text)).ToString();
-        }
+        }*/
 
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
@@ -71,14 +75,18 @@ namespace Project
 
         private void button2_Click(object sender, EventArgs e)
         {
-            /*ServiceLocator.Instance.Register("Manager", new Manager());
-            ServiceLocator.Instance.Register("Ingineer", new Ingineer());
-            string path = @"C:\ФИТ-201\1.txt";
-            string typeName = "";*/
+            Person pers1 = new Person(textBox2.Text, textBox1.Text, textBox3.Text);
+            label4.Text = pers1.ShortName();
+
+            ServiceLocator.Instance.Register("Manager", new Manager());
+            ServiceLocator.Instance.Register("Engineer", new Engineer());
+            ServiceLocator.Instance.Register("Worker", new Worker());
+            string path = @"C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\pers.txt";
+            string typeName = "";
 
             if (File.Exists(path))
             {
-
+                
                 File.ReadLines(path).First();
                 typeName = File.ReadAllText(path);
             }
@@ -89,22 +97,12 @@ namespace Project
 
         }
 
-        private void textBox4_TextChanged(object sender, EventArgs e)
+        private void label8_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void textBox5_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox6_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void labbbbbbbbb_Click(object sender, EventArgs e)
+        private void label7_Click(object sender, EventArgs e)
         {
 
         }

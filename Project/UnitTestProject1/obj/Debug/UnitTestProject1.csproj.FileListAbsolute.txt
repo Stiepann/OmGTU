@@ -5,3 +5,25 @@ C:\IVTm_231\Gotovchshik\Project\UnitTestProject1\bin\Debug\BL.dll
 C:\IVTm_231\Gotovchshik\Project\UnitTestProject1\bin\Debug\BL.pdb
 C:\IVTm_231\Gotovchshik\Project\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\IVTm_231\Gotovchshik\Project\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\bin\Debug\BL.dll
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\bin\Debug\BL.pdb
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\UnitTestProject1\bin\Debug\BL.dll
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\UnitTestProject1\bin\Debug\BL.pdb
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

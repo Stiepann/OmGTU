@@ -6,27 +6,29 @@ using System.Threading.Tasks;
 
 namespace BL
 {
-    public class Ingineer : Person
+    public class Engineer : Person
     {
         public string position { get; set; }
         public int hours { get; set; }
         public int overHours { get; set; }
+        public int bonus { get; set; }
 
-        public Ingineer()
+        public Engineer()
             : base()
         {
 
         }
-        public Ingineer(string firstName, string SecondName, string Patnymic, string Position, int Hours, int OverHours)
+        public Engineer(string firstName, string SecondName, string Patnymic, string Position, int Hours, int OverHours, int Bonus)
             : base(firstName, SecondName, Patnymic)
         {
             this.position = Position;
             this.hours = Hours;
             this.overHours = OverHours;
+            this.bonus = Bonus;
         }
         public override double CalculateSalary(int hours, int overhours, int bonus)
         {
-            return 300 * hours + 500 * overhours + 0 * bonus;
+            return 100 * hours + 20 * overhours + 10 * bonus;
         }
     }
 }

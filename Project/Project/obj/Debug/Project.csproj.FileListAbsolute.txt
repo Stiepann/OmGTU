@@ -9,16 +9,29 @@ C:\IVTm_231\Gotovchshik\Project\Project\bin\Debug\BL.dll
 C:\IVTm_231\Gotovchshik\Project\Project\bin\Debug\BL.pdb
 C:\IVTm_231\Gotovchshik\Project\Project\obj\Debug\Project.exe
 C:\IVTm_231\Gotovchshik\Project\Project\obj\Debug\Project.pdb
-C:\Users\А380\Desktop\узи2\Project\Project\bin\Debug\Project.exe.config
-C:\Users\А380\Desktop\узи2\Project\Project\bin\Debug\Project.exe
-C:\Users\А380\Desktop\узи2\Project\Project\bin\Debug\Project.pdb
-C:\Users\А380\Desktop\узи2\Project\Project\bin\Debug\BL.dll
-C:\Users\А380\Desktop\узи2\Project\Project\bin\Debug\BL.pdb
-C:\Users\А380\Desktop\узи2\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
-C:\Users\А380\Desktop\узи2\Project\Project\obj\Debug\Project.Form1.resources
-C:\Users\А380\Desktop\узи2\Project\Project\obj\Debug\Project.Properties.Resources.resources
-C:\Users\А380\Desktop\узи2\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
-C:\Users\А380\Desktop\узи2\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
-C:\Users\А380\Desktop\узи2\Project\Project\obj\Debug\Project.csproj.CopyComplete
-C:\Users\А380\Desktop\узи2\Project\Project\obj\Debug\Project.exe
-C:\Users\А380\Desktop\узи2\Project\Project\obj\Debug\Project.pdb
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\Project\obj\Debug\Project.Form1.resources
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\Project\obj\Debug\Project.exe
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\Project\obj\Debug\Project.pdb
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\Project\bin\Debug\Project.exe.config
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\Project\bin\Debug\Project.exe
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\Project\bin\Debug\Project.pdb
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\Project\bin\Debug\BL.dll
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\Project\bin\Debug\BL.pdb
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\Project\bin\Debug\Project.exe.config
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\Project\bin\Debug\Project.exe
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\Project\bin\Debug\Project.pdb
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\Project\bin\Debug\BL.dll
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\Project\bin\Debug\BL.pdb
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\Project\obj\Debug\Project.exe
+C:\Users\А380\Desktop\Управление запросами на изменения, дефектами и проблемами в программном обеспечении\узи2\Project\Project\obj\Debug\Project.pdb
