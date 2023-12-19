@@ -10,11 +10,11 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            double expectedResult = 10500;
+            double expectedResult = 23350;
             double actualResult;
             Engineer engneer1 = new Engineer();
 
-            actualResult = engneer1.CalculateSalary(100, 20, 10);
+            actualResult = engneer1.CalculateSalary(150, 25, 15);
 
             Assert.AreEqual(expectedResult, actualResult);
         }

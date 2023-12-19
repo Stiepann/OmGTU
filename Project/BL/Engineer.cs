@@ -28,7 +28,7 @@ namespace BL
         }
         public override double CalculateSalary(int hours, int overhours, int bonus)
         {
-            return 100 * hours + 20 * overhours + 10 * bonus;
+            return 150 * hours + 25 * overhours + 15 * bonus;
         }
     }
 }
