@@ -1,0 +1,22 @@
+﻿Сборка начата 24.10.2023 15:25:58.
+     1>Проект "C:\IVTm_231\Gotovchshik\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication2.cpp
+         ConsoleApplication2.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\IVTm_231\Gotovchshik\ConsoleApplication2\Debug\ConsoleApplication2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\IVTm_231\Gotovchshik\ConsoleApplication2\Debug\ConsoleApplication2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\IVTm_231\Gotovchshik\ConsoleApplication2\Debug\ConsoleApplication2.lib" /MACHINE:X86 Debug\Main.obj
+         Debug\ConsoleApplication2.obj
+         Debug\stdafx.obj
+     1>ConsoleApplication2.obj : error LNK2005: "void __cdecl DisplayMenu(void)" (?DisplayMenu@@YAXXZ) уже определен в Main.obj
+     1>ConsoleApplication2.obj : error LNK2005: "struct Node * __cdecl GetMaxValue(struct Node *)" (?GetMaxValue@@YAPAUNode@@PAU1@@Z) уже определен в Main.obj
+     1>ConsoleApplication2.obj : error LNK2005: "void __cdecl InsertNode(struct Node * &,struct Dictionary)" (?InsertNode@@YAXAAPAUNode@@UDictionary@@@Z) уже определен в Main.obj
+     1>ConsoleApplication2.obj : error LNK2005: "void __cdecl MoveNode(struct Node *,struct Node *)" (?MoveNode@@YAXPAUNode@@0@Z) уже определен в Main.obj
+     1>ConsoleApplication2.obj : error LNK2005: "void __cdecl PrintTree(struct Node *)" (?PrintTree@@YAXPAUNode@@@Z) уже определен в Main.obj
+     1>ConsoleApplication2.obj : error LNK2005: "void __cdecl RemoveNode(struct Node * &,unsigned int)" (?RemoveNode@@YAXAAPAUNode@@I@Z) уже определен в Main.obj
+     1>ConsoleApplication2.obj : error LNK2005: _main уже определен в Main.obj
+     1>C:\IVTm_231\Gotovchshik\ConsoleApplication2\Debug\ConsoleApplication2.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
+     1>Сборка проекта "C:\IVTm_231\Gotovchshik\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:01.68

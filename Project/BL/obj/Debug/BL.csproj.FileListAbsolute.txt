@@ -1,0 +1,10 @@
+C:\IVTm_231\Gotovchshik\Project\BL\bin\Debug\BL.dll
+C:\IVTm_231\Gotovchshik\Project\BL\bin\Debug\BL.pdb
+C:\IVTm_231\Gotovchshik\Project\BL\obj\Debug\BL.dll
+C:\IVTm_231\Gotovchshik\Project\BL\obj\Debug\BL.pdb
+C:\Users\А380\Desktop\узи2\Project\BL\bin\Debug\BL.dll
+C:\Users\А380\Desktop\узи2\Project\BL\bin\Debug\BL.pdb
+C:\Users\А380\Desktop\узи2\Project\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\А380\Desktop\узи2\Project\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\А380\Desktop\узи2\Project\BL\obj\Debug\BL.dll
+C:\Users\А380\Desktop\узи2\Project\BL\obj\Debug\BL.pdb

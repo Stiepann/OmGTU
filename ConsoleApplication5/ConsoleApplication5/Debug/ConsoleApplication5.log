@@ -1,0 +1,19 @@
+﻿Сборка начата 12.12.2023 12:27:51.
+     1>Проект "C:\IVTm_231\Gotovchshik\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\ConsoleApplication5.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication5.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication5.cpp
+         ConsoleApplication5.cpp
+     1>c:\ivtm_231\gotovchshik\consoleapplication5\consoleapplication5\consoleapplication5.cpp(1): warning C4627: #include <string>: пропущен при поиске использования предкомпилированного заголовка
+                 Добавление директивы в "stdafx.h" или перестройка предкомпилированного заголовка
+     1>c:\ivtm_231\gotovchshik\consoleapplication5\consoleapplication5\consoleapplication5.cpp(2): warning C4627: #include <iostream>: пропущен при поиске использования предкомпилированного заголовка
+                 Добавление директивы в "stdafx.h" или перестройка предкомпилированного заголовка
+     1>c:\ivtm_231\gotovchshik\consoleapplication5\consoleapplication5\consoleapplication5.cpp(3): warning C4627: #include <cstring>: пропущен при поиске использования предкомпилированного заголовка
+                 Добавление директивы в "stdafx.h" или перестройка предкомпилированного заголовка
+     1>c:\ivtm_231\gotovchshik\consoleapplication5\consoleapplication5\consoleapplication5.cpp(26): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+     1>Сборка проекта "C:\IVTm_231\Gotovchshik\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.vcxproj" завершена (целевые объекты Rebuild) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.31
